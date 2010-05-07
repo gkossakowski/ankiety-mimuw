@@ -1,0 +1,3 @@
+Small application to read and analyze data coming from students filling out questionnaires.
+
+It will use plain, old JDBC to access database.
